@@ -1,38 +1,28 @@
-## Welcome to GitHub Pages
+# Welcome to my repository! :hammer_and_wrench:
 
+Here you will find my projects of Machine Learning, Artificial Intelligence, Data Science, Python/R, etc.
+Feel free to use, download, copy, edit, and comment all my codes.
 
-You can use the [editor on GitHub](https://github.com/gabrielp15/gabrielp15.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+_See this page in Portuguese [here]() :brazil:_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## PROJECTS LIST:<br>
+A.
+- 01;<br>
 
-### Markdown
+B.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+C.
+- ...
 
-```markdown
-Syntax highlighted code block
+## Task list :books:
+### Until September/2022:
+- [ ] Learn COBOL basics;
 
-# Header 1
-## Header 2
-### Header 3
+### 'Til the end of 2022's:
+- [ ] Build an AI model to analyse Brazilian government finances;
 
-- Bulleted
-- List
+## Support or Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gabrielp15/gabrielp15.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Want to contact me?
+Fell free to send me a comment here or send me a DM on [Twitter](https://twitter.com/GabrielP0515).
+I will be available to answer any message!
