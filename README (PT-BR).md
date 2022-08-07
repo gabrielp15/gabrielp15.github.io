@@ -5,7 +5,7 @@ Sinta-se livre para usar, copiar, baixar, editar, e comentar todos os meus códi
 
 _See this page in English [here](https://github.com/gabrielp15/gabrielp15.github.io/blob/main/README%20(EN).md)_
 
-## LISTA DE PROJETOS:<br>
+## Lista de projetos:<br>
 A.
 - 01;<br>
 
